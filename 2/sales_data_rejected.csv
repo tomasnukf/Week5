@@ -1,0 +1,16 @@
+OrderID,CustomerName,Region,Product,Quantity,SalesAmount,Discount,OrderDate,DeliveryDate,PhoneNumber,Phone_Valid,reason
+ORD1182,Hannah Davis,North,accessory,2.0,426.28,20.0,2025-07-02,2024-12-31,555-018X,False,delivery_before_order
+ORD1165,,North,phone,6.0,2156.98,5.0,2025-06-15,2025-06-13,+1-202-555-0178,True,delivery_before_order
+ORD1132,Fatima Yusuf,South,phone,5.0,,0.0,2025-05-13,2025-05-09,(202) 555-0189,True,delivery_before_order
+ORD1009,Rita Gomez,West,tablet,7.0,4827.46,20.0,2025-01-10,2025-01-06,+1-202-555-0178,True,delivery_before_order
+ORD1122,Lola Ade,souht,tablet,0.0,2952.0,5.0,2025-05-03,2025-04-30,555-018X,False,delivery_before_order
+ORD1031,Fatima Yusuf,South,tablet,7.0,1236.1,15.0,2025-02-01,2024-12-31,12345,False,delivery_before_order
+ORD1012,Nina Roberts,souht,unknown,-1.0,4554.0,5.0,2025-01-13,2025-01-09,555-018X,False,delivery_before_order
+ORD1090,,East,tablet,0.0,245.83,5.0,2025-04-01,2025-03-28,,True,delivery_before_order
+ORD1027,Oluwaseun Adebayo,West,accessory,8.0,520.53,-5.0,2025-01-28,2024-12-31,,True,delivery_before_order
+ORD1032,Nina Roberts,North,accessory,7.0,3415.37,30.0,2025-02-02,2025-01-29,,True,delivery_before_order
+ORD1039,Charlie Lee,North,tablet,1.0,1452.41,20.0,2025-02-09,2025-02-04,2025550185,True,delivery_before_order
+ORD1094,Kevin Patel,South,unknown,9.0,4747.92,30.0,2025-04-05,2025-04-01,(202) 555-0189,True,delivery_before_order
+ORD1080,Charlie Lee,East,lap top,-1.0,1337.0,5.0,2025-03-22,2024-12-31,+2348012345678,True,delivery_before_order
+ORD1083,Fatima Yusuf,West,unknown,8.0,3199.98,20.0,2025-03-25,2024-12-31,,True,delivery_before_order
+ORD1013,Bob Smith,North,accessory,2.0,737.89,5.0,2025-01-14,2025-01-13,08012345678,True,delivery_before_order
